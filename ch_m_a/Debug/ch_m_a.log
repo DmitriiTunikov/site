@@ -1,0 +1,5 @@
+﻿  main.c
+  interpol.c
+  Generating Code...
+main.obj : error LNK2005: _fr already defined in interpol.obj
+D:\proga\ch_m\ch_m_a\Debug\ch_m_a.exe : fatal error LNK1169: one or more multiply defined symbols found
